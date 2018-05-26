@@ -1,0 +1,13 @@
+{
+  "name": "EzeBot",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "node index.js"   
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "discord": "^0.8.2",
+    "discord.js": "^11.3.2"
+  }
+}  
