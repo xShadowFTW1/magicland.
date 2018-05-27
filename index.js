@@ -16,7 +16,7 @@ client.on('message', msg => {
 
 //STREAMERMODE
 client.on('ready', () => {
-client.user.setGame('Type m!help');
+client.user.setGame('Type m!help', 'https://www.youtube.com');
 })
 
 //SERVERINFO
